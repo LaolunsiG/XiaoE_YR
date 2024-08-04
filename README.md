@@ -2,7 +2,7 @@
 - 整理书源、漫画源、IPTV源、RSS源等
 
 ## API 资源
-[https://api.qtkj.love/](https://api.qtkj.love/), 
+- [https://api.qtkj.love/](https://api.qtkj.love/) - 综合
 
 ## [Book_Sourse](https://github.com/LaolunsiG/XiaoE_Yuan_Resources/tree/main/Book_Source)
 
