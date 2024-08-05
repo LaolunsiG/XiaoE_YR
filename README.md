@@ -4,10 +4,10 @@
 ## API 资源
 - [https://api.qtkj.love/](https://api.qtkj.love/) - 综合
 
-## [Book_Sourse](https://github.com/LaolunsiG/XiaoE_Yuan_Resources/tree/main/Book_Source)
+## [书源](https://github.com/LaolunsiG/XiaoE_Yuan_Resources/tree/main/Book_Source)
 
-## [Comic_Sourse](https://github.com/LaolunsiG/XiaoE_Yuan_Resources/tree/main/Comic_Source)
+## [漫画源](https://github.com/LaolunsiG/XiaoE_Yuan_Resources/tree/main/Comic_Source)
 
-## [IPTV_Sourse](https://github.com/LaolunsiG/XiaoE_Yuan_Resources/tree/main/IPTV_Sourse)
+## [IPTV 源](https://github.com/LaolunsiG/XiaoE_Yuan_Resources/tree/main/IPTV_Sourse)
 
 
