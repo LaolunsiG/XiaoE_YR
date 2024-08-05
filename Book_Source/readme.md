@@ -1,6 +1,6 @@
-# App_Legado(阅读APP)
+# App_Legado(阅读 APP)
 
-## [综合](https://github.com/LaolunsiG/XiaoE_Yuan_Resources/edit/main/Book_Source/APP_Legado/%E7%BB%BC%E5%90%88.md)
+## 综合
 
 ## 书源
 
@@ -14,4 +14,3 @@
 
 ## 主题
 
-## 感谢以下项目/人员
